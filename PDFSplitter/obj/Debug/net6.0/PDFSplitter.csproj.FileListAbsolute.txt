@@ -8,10 +8,11 @@ C:\Users\hersh\Documents\Projects\cpp\PDFSplitter\PDFSplitter\bin\Debug\net6.0\P
 C:\Users\hersh\Documents\Projects\cpp\PDFSplitter\PDFSplitter\bin\Debug\net6.0\PDFSplitter.dll
 C:\Users\hersh\Documents\Projects\cpp\PDFSplitter\PDFSplitter\bin\Debug\net6.0\ref\PDFSplitter.dll
 C:\Users\hersh\Documents\Projects\cpp\PDFSplitter\PDFSplitter\bin\Debug\net6.0\PDFSplitter.pdb
-C:\Users\hersh\Documents\Projects\cpp\PDFSplitter\PDFSplitter\bin\Debug\net6.0\BouncyCastle.Crypto.dll
-C:\Users\hersh\Documents\Projects\cpp\PDFSplitter\PDFSplitter\bin\Debug\net6.0\itextsharp.dll
 C:\Users\hersh\Documents\Projects\cpp\PDFSplitter\PDFSplitter\obj\Debug\net6.0\PDFSplitter.csproj.CopyComplete
 C:\Users\hersh\Documents\Projects\cpp\PDFSplitter\PDFSplitter\obj\Debug\net6.0\PDFSplitter.dll
 C:\Users\hersh\Documents\Projects\cpp\PDFSplitter\PDFSplitter\obj\Debug\net6.0\ref\PDFSplitter.dll
 C:\Users\hersh\Documents\Projects\cpp\PDFSplitter\PDFSplitter\obj\Debug\net6.0\PDFSplitter.pdb
 C:\Users\hersh\Documents\Projects\cpp\PDFSplitter\PDFSplitter\obj\Debug\net6.0\PDFSplitter.genruntimeconfig.cache
+C:\Users\hersh\Documents\Projects\cpp\PDFSplitter\PDFSplitter\obj\Debug\net6.0\PDFSplitter.csproj.AssemblyReference.cache
+C:\Users\hersh\Documents\Projects\cpp\PDFSplitter\PDFSplitter\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\hersh\Documents\Projects\cpp\PDFSplitter\PDFSplitter\bin\Debug\net6.0\itextsharp.dll
